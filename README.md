@@ -3,7 +3,8 @@
 For runing this code, please follow low the instructions:
 1. Clone the repository 
 2. Unzip classification folder to 'classification_datasets' folder
-3. Run "final_work_code.ipynb"
+3.Turn on the GPU
+4. Run "final_work_code.ipynb"
 
 **Notes**
 * The code is independently ordered by the different parts of the project (c,d,e)
