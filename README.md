@@ -1,4 +1,4 @@
-# Final_Work_ML
+# Final_Project_ML
 
 For runing this code, please follow low the instructions:
 1. Clone the repository 
@@ -7,4 +7,10 @@ For runing this code, please follow low the instructions:
 
 **Notes**
 * The code is independently ordered by the different parts of the project (c,d,e)
+
+##Installation 
+
+To run this analysis, you'll need Make and Python 3.5 installed. To install the necessary python packages, you'll also need Anaconda.
+
+Once you have Anaconda, type this to make a new virtual environments with all the packages you need: conda create --name final_project --file requirements.txt
 
