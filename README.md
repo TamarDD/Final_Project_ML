@@ -10,7 +10,7 @@ For runing this code, please follow low the instructions:
 
 ## Installation 
 
-To run this analysis, you'll need Make and Python 3.5 installed. To install the necessary python packages, you'll also need Anaconda.
+To run this code, you'll need Make and Python 3.5 installed. To install the necessary python packages, you may also need Anaconda.
 
 Once you have Anaconda, type this to make a new virtual environments with all the packages you need: conda create --name final_project --file requirements.txt
 
