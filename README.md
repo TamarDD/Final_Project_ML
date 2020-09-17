@@ -8,7 +8,7 @@ For runing this code, please follow low the instructions:
 **Notes**
 * The code is independently ordered by the different parts of the project (c,d,e)
 
-##Installation 
+## Installation 
 
 To run this analysis, you'll need Make and Python 3.5 installed. To install the necessary python packages, you'll also need Anaconda.
 
