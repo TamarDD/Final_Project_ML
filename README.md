@@ -1,4 +1,4 @@
-# ReadMe
+# Tree-based ensemble methods
 
 The purpose of this project is to examine the performance of published tree-based ensemble methods.
 
